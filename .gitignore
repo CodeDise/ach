@@ -1,0 +1,50 @@
+# Environment Variables & Secrets
+.env
+*.env
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pyrogram session files
+*.session
+*.session-journal
+
+# Temporary download & preview files
+preview_wm_*
+*.tmp
+*.mp4
+*.mkv
+*.png
+*.jpg
+*.jpeg
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
